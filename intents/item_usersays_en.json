@@ -1,0 +1,67 @@
+[
+  {
+    "id": "42445682-d0e8-4a74-b306-55767b04aec3",
+    "data": [
+      {
+        "text": "tomato soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e5ffc09-369b-4eef-9c51-1bf748480d13",
+    "data": [
+      {
+        "text": "roti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c26cd15-1987-451b-9a7c-18d6f3df012e",
+    "data": [
+      {
+        "text": "paneer butter masala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "327b1636-add5-46f4-8684-8ce8ca57d5c6",
+    "data": [
+      {
+        "text": "dosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52c5604c-8069-449e-ac4f-18bc4b395561",
+    "data": [
+      {
+        "text": "vegetable samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

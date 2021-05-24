@@ -1,0 +1,56 @@
+[
+  {
+    "id": "65751df4-5dc8-4ec0-a414-bed316906493",
+    "data": [
+      {
+        "text": "desserts and drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6f5dd95-a398-40cb-86a9-d84b6b36c697",
+    "data": [
+      {
+        "text": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "572c4aa8-fb22-4500-ac48-73489137c024",
+    "data": [
+      {
+        "text": "desserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7023fa8c-ce6c-4367-86bb-baacfd59986c",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b06f69fc-af5e-4fca-ab88-3dc180a807f4",
+    "data": [
+      {
+        "text": "staters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edf7f817-fe70-4da8-8303-fc9d3996ab42",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
